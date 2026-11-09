@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.djstarz.twa",
+        "sha256_cert_fingerprints": ["CC:41:C3:5C:9F:86:70:49:CA:3D:A1:B1:B3:D0:B9:12:6F:73:FB:9A:29:30:34:8E:85:91:EE:61:D6:29:9D:76"]
+      }
+    }]
